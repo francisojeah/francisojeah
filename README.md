@@ -16,43 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=francisojeah&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="33.3%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-            < <img  width="300vw" "lenght="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah&theme=highcontrast" alt="francisojeah"/>
-          </a>
-        </div>
-        </td>
-        <td width="33.3%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="33.3%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-             <img src="https://awesome-github-stats.azurewebsites.net/user-stats/francisojeah?cardType=github&theme=github" alt="Francis Okocha-Ojeah's GitHub Stats" /> 
-           <!-- <img src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&hide_border=true" alt="Francis Okocha-Ojeah's GitHub Stats" vertical-align="middle"/> -->
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/g0621?label=Follow%20Me&logo=github" alt="GitHub Followers" />
-[](https://komarev.com/ghpvc/?username=francisojeah&color=brightgreen)
-</div>
+<p align="center">
+    <a href="https://github.com/francisojeah">
+      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/francisojeah?label=Follow%20Me&logo=github" />
+    </a> 
+    <a href="https://github.com/francisojeah">
+      <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=francisojeah&label=Profile+Views" />
+    </a>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,10 +33,12 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
+### GitHub Stats 📈
 <div align="center">
-    <img  width="300vw" "lenght="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah&theme=highcontrast" alt="francisojeah"/>
-    <img  width="300vw" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=francisojeah&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="francisojeah"/>
-    <img  width="300vw" align="center" src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&theme=highcontrast&locale=en" alt="francisojeah" />
+    <img  width="300vw"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah&theme=midnight-purple" alt="francisojeah"/>
+    <img  width="300vw" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=francisojeah&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="francisojeah"/>
+    <img  width="300vw" align="center" src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&theme=midnight-purple&count_private=true&locale=en" alt="francisojeah" />
 </div>
 
 
