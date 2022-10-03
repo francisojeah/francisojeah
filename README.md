@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### GitHub Stats 📈
 <div align="center">
-    <img  width="300vw"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah&theme=midnight-purple" alt="francisojeah"/>
-    <img  width="300vw" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=francisojeah&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="francisojeah"/>
-    <img  width="300vw" align="center" src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&theme=midnight-purple&count_private=true&locale=en" alt="francisojeah" />
+    <img  width="300vw"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah" alt="francisojeah"/>
+    <img  width="300vw" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=francisojeah&show_icons=true&locale=en&layout=compact" alt="francisojeah"/>
+    <img  width="300vw" align="center" src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&count_private=true&locale=en" alt="francisojeah" />
 </div>
 
 
