@@ -1,5 +1,3 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Francis! 
-
 <!--
 **francisojeah/francisojeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,28 +14,54 @@ Here are some ideas to get you started:
 -->
 
 
-<p>
-    <a href="https://github.com/francisojeah">
-      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/francisojeah?label=Follow%20Me&logo=github" />
-    </a> 
-    <a href="https://github.com/francisojeah">
-      <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=francisojeah&label=Profile+Views" />
-    </a>
-  </p>
+Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),My name is Francis
+===============================================================================================================================
 
+Software Developer
+------------------
 
-### 🤝 Connect with me:
+I am a third year computer science student. I have been learning to code for up to 5 years. I am a Software Developer and have a strong passion for Machine Learning, AI and CyberSecurity.
+
+* 🌍  I'm based in Lagos, Nigeria.
+* ✉️  You can contact me at [ojeahfrancis@gmail.com](mailto:ojeahfrancis@gmail.com)
+
+<a href="https://www.twitter.com/francisojeah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/francisojeah?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a><a href="https://www.github.com/francisojeah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/francisojeah?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
+### Skills
+
 <p align="left">
-<a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://https://twitter.com/FrancisOjeah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Socials
 
-## 📈 GitHub Stats 
-<div align="center">
-    <img  width="300vw"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah" alt="francisojeah"/>
-    <img  width="300vw" align="center" src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&count_private=true&locale=en" alt="francisojeah" />
-    <img  width="300vw" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=francisojeah&show_icons=true&locale=en&layout=compact" alt="francisojeah"/>
-</div>
+<p align="left"> <a href="https://www.github.com/francisojeah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/francisojeah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/francisojeah"><img src="https://github-readme-stats.vercel.app/api?username=francisojeah&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="francisojeah's GitHub stats" /></a>
+
+<a href="http://www.github.com/francisojeah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=francisojeah&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/francisojeah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisojeah&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
