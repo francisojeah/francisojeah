@@ -20,7 +20,7 @@ Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Developer
 ------------------
 
-I am a third year computer science student. I have been learning to code for up to 5 years. I am a Software Developer and have a strong passion for Machine Learning, AI and CyberSecurity.
+I am a third year Computer Science student. I have been learning to code for up to 5 years. I am a Software Developer and have a strong passion for Machine Learning, AI and CyberSecurity.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [ojeahfrancis@gmail.com](mailto:ojeahfrancis@gmail.com)
