@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),My name is Francis
+Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
 ===============================================================================================================================
 
 Software Developer
