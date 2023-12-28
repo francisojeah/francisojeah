@@ -13,17 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
-===============================================================================================================================
+Hi there! ![Greetings](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
 
 Software Engineer
-------------------
+-------------------
 
-I am a final year Computer Science student with over 5 years of programming experience. I am a Software Engineer with a deep passion for cutting-edge technologies such as Machine Learning and AI.
+I am a final year Computer Science student with over 5 years of programming experience. My passion lies at the intersection of Software Engineering and cutting-edge AI technologies. I aspire to become an AI Research Scientist, leveraging my programming expertise to delve deeper into the realms of Machine Learning and AI.
 
-* 🌍  I'm based in Lagos, Nigeria.
-* ✉️  You can contact me at [ojeahfrancis@gmail.com](mailto:ojeahfrancis@gmail.com)
+* 🌍 Based in Lagos, Nigeria.
+* ✉️ Feel free to reach out to me at [ojeahfrancis@gmail.com](mailto:ojeahfrancis@gmail.com)
 
 <a href="https://www.twitter.com/francisojeah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/francisojeah?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
