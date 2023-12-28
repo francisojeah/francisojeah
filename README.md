@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
 ===============================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
 I am a third year Computer Science student with over 5 years of coding experience. I am a Software Developer with a deep passion for cutting-edge technologies such as Machine Learning and AI.
