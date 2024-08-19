@@ -5,12 +5,12 @@ Software Engineer
 -------------------
 <div>
   <span style="float: left">
-    <a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="_blank">
+    <a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </span>
   <span style="float: right">
-    <a href="https://drive.google.com/file/d/1yV4G6N7Hb-g42a2j8XlNP59sESi4c9eD/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1yV4G6N7Hb-g42a2j8XlNP59sESi4c9eD/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
