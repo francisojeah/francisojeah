@@ -1,22 +1,20 @@
-<!--
-**francisojeah/francisojeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi there! ![Greetings](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
+
 -------------------
 Software Engineer
 -------------------
+<div>
+  <span style="float: left">
+    <a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
+  <span style="float: right">
+    <a href="https://drive.google.com/file/d/1yV4G6N7Hb-g42a2j8XlNP59sESi4c9eD/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
+    </a>
+  </span>
+</div>
 
 I am a final year Computer Science student with over 5 years of programming experience. My passion lies at the intersection of Software Engineering and cutting-edge AI technologies. I aspire to become an AI Research Scientist, leveraging my programming expertise to delve deeper into the realms of Machine Learning and AI.
 
