@@ -1,8 +1,9 @@
-Hi there! ![Greetings](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
 
--------------------
+# Hi there! ![Greetings](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francis
+
 Software Engineer
 -------------------
+
 <div>
   <span style="float: left">
     <a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="_blank" rel="noopener noreferrer">
@@ -21,10 +22,7 @@ I am a final year Computer Science student with over 5 years of programming expe
 * 🌍 Based in Lagos, Nigeria.
 * ✉️ Feel free to reach out to me at [ojeahfrancis@gmail.com](mailto:ojeahfrancis@gmail.com)
 
-<a href="https://www.twitter.com/francisojeah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/francisojeah?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/francisojeah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/francisojeah?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
 
 ### Skills
 
@@ -58,9 +56,6 @@ src="https://img.shields.io/github/followers/francisojeah?logo=github&style=for-
 
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/francisojeah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/francis-okocha-ojeah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/francisojeah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
