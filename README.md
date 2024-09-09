@@ -13,7 +13,7 @@ My expertise spans from crafting intuitive user interfaces to architecting compl
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-okocha-ojeah)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francisojeah.vercel.app)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yV4G6N7Hb-g42a2j8XlNP59sESi4c9eD/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://francisojeah.vercel.app/resume)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojeahfrancis@gmail.com)
 
 ### Tech Stack:
