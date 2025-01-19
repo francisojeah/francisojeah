@@ -71,10 +71,6 @@
       <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="45" height="45" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="icon" />
-      <br>GraphQL
-    </td>
   </tr>
 </table> 
 
