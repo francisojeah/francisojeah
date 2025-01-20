@@ -12,8 +12,8 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-      <br>Javascript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+      <br>Typescript
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
@@ -27,16 +27,20 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <br>Javascript
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
       <br>Ethereum
@@ -57,12 +61,12 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" />
       <br>Docker
     </td>
-  </tr>
-  <tr>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
