@@ -1,4 +1,4 @@
-# Hi there! 👋 My name's Francis
+## Hi there! 👋 My name's Francis
 
 <div align='center'>
 <a href="https://x.com/francisojeah" target="_blank">
