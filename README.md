@@ -1,6 +1,6 @@
 # Hi there! 👋 My name's Francis
 
-<p align='center'>
+<div align='center'>
 <a href="https://x.com/francisojeah" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -13,7 +13,7 @@
 <a href="mailto:ojeahfrancis@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+</div>
 
 ### Skills 
 
@@ -88,10 +88,10 @@
 
 ### GitHub Stats
 
-<div align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=francisojeah&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="francisojeah's GitHub stats" />
-    <br/>
-       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img height=200 src="https://github-readme-streak-stats-eight.vercel.app/?user=francisojeah&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-      </a>
+<div align='center' style="display: flex;">
+  <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=francisojeah&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="francisojeah's GitHub stats" />&nbsp;&nbsp;
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img style="width: 45%;" src="https://github-readme-streak-stats-eight.vercel.app/?user=francisojeah&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
 </div>
+
